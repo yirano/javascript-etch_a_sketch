@@ -2,6 +2,7 @@
 
 ## Introduction
 
+[Live Preview](https://yirano.github.io/javascript-etch_a_sketch/)
 
 ## Built With
 HTML/CSS
