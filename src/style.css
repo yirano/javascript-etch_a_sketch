@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+div {
+  margin: 0;
+  padding: 0;
+}
+
 .container {
   width: 800px;
   height: 670px;
@@ -12,8 +17,8 @@
 }
 
 #canvas {
-  width: 700px;
-  height: 450px;
+  width: 704px; /* 44 */
+  height: 448px; /* 28 */
   margin: 0 auto;
   margin-top: 45px;
   border-radius: 6px;
